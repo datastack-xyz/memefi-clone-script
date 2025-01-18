@@ -4,7 +4,7 @@ This repository showcases the **MemeFi Coin Script**, a foundation for launching
 
 **Ready to bring your vision to life?** We offer complete implementation services so you can focus on marketing and growing your community while we handle the technical aspects.
 
-![MemeFi Coin Source Code GitHub Image](/images/image2.jpg "Web3 MemeFi Coin Script Package Solution | GitHub")
+![MemeFi Coin Source Code GitHub Image](memefi.png "Web3 MemeFi Coin Script Package Solution | GitHub")
 
 
 ## Why Choose This Solution?
